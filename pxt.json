@@ -1,7 +1,7 @@
 {
-    "name": "weatherbit",
+    "name": "TheEng42-WeatherBit",
     "version": "0.0.19",
-    "description": "SparkFun weatherbit",
+    "description": "SparkFun WeatherBit Extension",
     "license": "MIT",
     "dependencies": {
         "core": "*"
